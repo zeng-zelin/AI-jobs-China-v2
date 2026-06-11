@@ -2,7 +2,7 @@
 
 > 123个职业 · 2024-2025年真实从业人数 · 交互式热力图
 
-**[🔴 在线体验 →](https://Zeng-ZL.github.io/AI-jobs-China/)**
+**[🔴 在线体验 →](https://Zeng-ZeLin.github.io/AI-jobs-China/)**
 
 ---
 
